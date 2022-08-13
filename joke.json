@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0105575/",
+  "name": "Thevar Magan",
+  "image": "https://m.media-amazon.com/images/M/MV5BZjdlYzdmZGMtY2U2My00YmNmLTkwYTEtMWE1NTM3MWNiYjM3XkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_.jpg",
+  "description": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt0105575/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "elametly"
+    },
+    "dateCreated": "2009-06-14",
+    "inLanguage": "English",
+    "name": "Devar magan - a tribute to tamil Cinema",
+    "reviewBody": "Devar magan is my all time favourite movie.It brings the two versatile actors of Tamil Cine industry,even Indian Film Industry together to give a movie which depicts the reality of most villages and Devar&apos;s religion.The scene between Kamal and Shivaji remains one of the best ever scene in tamil cinema.May be Urban people may find it different, but the peoples from villages, will find at least one character or one event similar to their place or peoples.Though two Gems acting in same movie there is lot of scope for others to act and they all used it well.(Nasser,Gautami,Revathi and even Vadivelu).KamalHaasan-Ilayaraja music combination once rocks for the nth time.\n\nDon&apos;t forget to watch it.",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 7145,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.7
+  },
+  "contentRating": "A",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "1992-10-25",
+  "keywords": "wheelchair,village,responsibility,kiss on the cheek,lipstick",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0352032/",
+      "name": "Kamal Haasan"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0304262/",
+      "name": "Shivaji Ganesan"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0621937/",
+      "name": "Nassar"
+    }
+  ],
+  "director": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0080245/",
+      "name": "Bharathan"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Organization",
+      "url": "/company/co0026065/"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0352032/",
+      "name": "Kamal Haasan"
+    }
+  ],
+  "duration": "PT2H25M"
+}
